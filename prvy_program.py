@@ -10,13 +10,14 @@ sumaPremmenych = premmenaY + premmenaY
 
 hodnotaCiselna = int(input("Zadaj cele cislo : "))
 meno= input("Zadaj meno : ")
+priezvisko = input("Zadaj priezvisko : ")
 
 #pozreme sa akeho typu su premenne
 print(type(hodnotaCiselna))
 print(type(meno))
 
 #optimalizovane spajenie retazcov do vypisu
-print(f"Mám meno {meno} a má počet {hodnotaCiselna} rokov")
+print(f"Volám sa {meno} {priezvisko} a má {hodnotaCiselna} rokov")
 
 
 
