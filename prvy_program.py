@@ -8,8 +8,15 @@ premmena_x = 2
 premmenaY = 2.5
 sumaPremmenych = premmenaY + premmenaY
 
-hodnotaCiselna = input("Zadaj cele cislo")
-meno= input("Zadaj meno")
+hodnotaCiselna = int(input("Zadaj cele cislo : "))
+meno= input("Zadaj meno : ")
+
+#pozreme sa akeho typu su premenne
+print(type(hodnotaCiselna))
+print(type(meno))
+
+#optimalizovane spajenie retazcov do vypisu
+print(f"Mám meno {meno} a má počet {hodnotaCiselna} rokov")
 
 
 
