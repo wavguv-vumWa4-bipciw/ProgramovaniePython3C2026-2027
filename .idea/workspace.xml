@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da841c75-7552-41da-aac0-defa74ab9bcb" name="Changes" comment="Úvod do knižnice TKINTER">
-      <change afterPath="$PROJECT_DIR$/podmienky.py" afterDir="false" />
+    <list default="true" id="da841c75-7552-41da-aac0-defa74ab9bcb" name="Changes" comment="podmienky - časť 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tkinter_uvod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/podmienky.py" beforeDir="false" afterPath="$PROJECT_DIR$/podmienky.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <updated>1789555914929</updated>
       <workItem from="1789555915937" duration="3280000" />
       <workItem from="1790592180548" duration="4839000" />
-      <workItem from="1790764994659" duration="938000" />
+      <workItem from="1790764994659" duration="1696000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -113,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1790596318546</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="podmienky - časť 1">
+      <option name="closed" value="true" />
+      <created>1790765951625</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1790765951625</updated>
+    </task>
+    <task id="LOCAL-00006" summary="podmienky - časť 2">
+      <option name="closed" value="true" />
+      <created>1790766225361</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1790766225361</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,10 +139,12 @@
     <MESSAGE value="test2" />
     <MESSAGE value="spájanie reťazcov" />
     <MESSAGE value="Úvod do knižnice TKINTER" />
-    <option name="LAST_COMMIT_MESSAGE" value="Úvod do knižnice TKINTER" />
+    <MESSAGE value="podmienky - časť 1" />
+    <MESSAGE value="podmienky - časť 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="podmienky - časť 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ProgramovaniePython3C2026_2027$podmienky.coverage" NAME="podmienky Coverage Results" MODIFIED="1790765884536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProgramovaniePython3C2026_2027$podmienky.coverage" NAME="podmienky Coverage Results" MODIFIED="1790766658624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProgramovaniePython3C2026_2027$prvy_program.coverage" NAME="prvy_program Coverage Results" MODIFIED="1789559017189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProgramovaniePython3C2026_2027$tkinter_uvod.coverage" NAME="tkinter_uvod Coverage Results" MODIFIED="1790596201453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
