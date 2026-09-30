@@ -20,3 +20,7 @@ if cislo >= 0 and cislo <= 100:
     print("Číslo je z intervalu 0 .. 100 !")
 else:
     print("Číslo nie je z intervalu 0 .. 100 !")
+
+text = 'Toto je text, ktorý obsahuje slovo Python'
+if "Python" in text:
+    print("Text obsahuje slovo Python !")
