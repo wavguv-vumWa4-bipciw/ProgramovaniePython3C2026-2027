@@ -24,3 +24,19 @@ else:
 text = 'Toto je text, ktorý obsahuje slovo Python'
 if "Python" in text:
     print("Text obsahuje slovo Python !")
+
+#mnohonásobné vetvenie
+hodnota = 10
+match hodnota:
+    case 1:
+        print("Zadal si jedna !")
+    case 2:
+        print("Zadal si dva !")
+    case 3:
+        print("Zadal si tri !")
+    case 4:
+        print("Zadal si štyri !")
+    case 5:
+        print("Zadal si päť !")
+    case _:
+        print("Zadal si niečo iné ! ")
